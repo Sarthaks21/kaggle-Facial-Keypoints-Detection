@@ -1,0 +1,3 @@
+Download the data from:
+
+https://www.kaggle.com/c/3486/download-all
